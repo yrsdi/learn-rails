@@ -74,7 +74,6 @@ GEM
       compass (~> 1.0.0)
       sass-rails (< 5.1)
       sprockets (< 2.13)
-    concurrent-ruby (1.0.0)
     erubis (2.7.0)
     execjs (2.6.0)
     extlib (0.9.16)
@@ -235,7 +234,7 @@ DEPENDENCIES
   better_errors
   coffee-rails (~> 4.1.0)
   compass-rails (~> 2.0.5)
-  figaro
+  figaro (~> 1.1.0)
   gibbon (~> 1.2.0)
   google_drive
   high_voltage
