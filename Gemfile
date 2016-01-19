@@ -15,6 +15,7 @@ group :development, :test do
 end
 # learn-rails
 #gem 'activerecord-tableless'
+gem 'rails_layout'
 gem 'foundation-rails'
 #gem 'compass-rails', '~> 2.0.5'
 gem 'gibbon'
