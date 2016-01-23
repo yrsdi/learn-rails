@@ -1,4 +1,4 @@
-class Owner
+class Visitor
 	
 	def name
 		name = 'Yadi Rosadi'
